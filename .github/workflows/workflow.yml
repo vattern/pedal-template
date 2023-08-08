@@ -57,6 +57,6 @@ jobs:
       with:
         branch: main
         folder: Generated
-        repository-name: INTI-CMNB/kibot_variants_arduprog_site
+        repository-name: vattern/pedal-template.git
         token: ${{ secrets.TOKEN }}
 
