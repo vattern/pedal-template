@@ -27,7 +27,7 @@ jobs:
     - uses: INTI-CMNB/KiBot@v2_k7
       with:
         # Required - kibot config file
-        config: pcb_main/settings.yaml
+        config: pcb_main/settings.yml
         # optional - prefix to output defined in config
         dir: pcb_main/Fabrication
         # optional - schematic file
@@ -43,7 +43,7 @@ jobs:
         path: |
           Generated
         if-no-files-found: warn
-        
+
 
 
   # quick:
