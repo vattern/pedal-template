@@ -5,13 +5,13 @@ name: "Make artifacts"
 on:
   push:
     paths:
-      - 'pcb/*.kicad_sch'
-      - 'pcb/*.kicad_pcb'
+      - 'pcb_main/*.kicad_sch'
+      - 'pcb_main/*.kicad_pcb'
       - '.github/workflows/workflow.yml'
   pull_request:
     paths:
-      - 'pcb/*.kicad_sch'
-      - 'pcb/*.kicad_pcb'
+      - 'pcb_main/*.kicad_sch'
+      - 'pcb_main/*.kicad_pcb'
       - '.github/workflows/workflow.yml'
   repository_dispatch:
     types: [run_qs]
