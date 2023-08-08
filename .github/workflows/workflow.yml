@@ -57,6 +57,6 @@ jobs:
       with:
         branch: main
         folder: Generated
-        repository-name: vattern/pedal-template.git
+        repository-name: vattern/pedal-template
         token: ${{ secrets.TOKEN }}
 
