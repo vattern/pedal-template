@@ -1,0 +1,1191 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head><script>
+  var _paq = window._paq = window._paq || [];
+  _paq.push(['disableBrowserFeatureDetection']);
+  _paq.push(['requireCookieConsent']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://data.neutrik.com/";
+    _paq.push(['setTrackerUrl', u+'js/']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'js/'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <meta name="mobile-web-app-capable" content="yes">
+
+                    
+        <title>NMJ6HCD2 - Neutrik</title><meta name="robots" content="index,follow"><link rel="alternate" href="https://www.neutrik.com/en/product/nmj6hcd2" hreflang="en"><link rel="alternate" href="https://www.neutrik.com/de/produkt/nmj6hcd2" hreflang="de"><link rel="canonical" href="https://www.neutrik.com/en/product/nmj6hcd2">
+                        <meta name="revisit-after" content="2 days"/>
+            
+                        <meta name="language" content="en"/>
+                                <meta name="publisher" content="MASSIVE ART WebServices GmbH"/>
+                                <meta name="author" content="Neutrik"/>
+                                <meta name="copyright" content="Neutrik"/>
+                                <meta name="audience" content="all"/>
+                                <meta name="distribution" content="global"/>
+                                <meta name="image" content="https://www.neutrik.com/"/>
+            
+                        <meta name="DC.Title" content="NMJ6HCD2"/>
+                                <meta name="DC.Publisher" content="MASSIVE ART WebServices GmbH"/>
+                                <meta name="DC.Copyright" content="Neutrik"/>
+            
+                        <meta name="twitter:card" content="summary"/>
+                                <meta name="twitter:url" content="https://www.neutrik.com/en/product/nmj6hcd2"/>
+                                <meta name="twitter:title" content="NMJ6HCD2"/>
+                                <meta name="twitter:description" content="1/4&quot; stereo jack, switched, with chrome ferrule and straight PCB pins, mounting nut included"/>
+                                <meta name="twitter:image" content="https://www.neutrik.com/"/>
+            
+                        <meta property="og:site_name" content="Neutrik"/>
+                                <meta property="og:url" content="https://www.neutrik.com/en/product/nmj6hcd2"/>
+                                <meta property="og:title" content="NMJ6HCD2"/>
+                                <meta property="og:image" content="https://www.neutrik.com/"/>
+                                <meta property="og:type" content="website"/>
+                                <meta property="og:description" content="1/4&quot; stereo jack, switched, with chrome ferrule and straight PCB pins, mounting nut included"/>
+                                <meta property="og:locale" content="en"/>
+                    
+                    <link rel="apple-touch-icon" sizes="180x180" href="/neutrik/images/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/neutrik/images/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/neutrik/images/favicons/favicon-16x16.png">
+<link rel="manifest" href="/neutrik/images/favicons/site.webmanifest">
+<link rel="mask-icon" href="/neutrik/images/favicons/safari-pinned-tab.svg" color="#2ea198">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+        
+                    <link rel="stylesheet" href="/build/neutrik/css/main.77d5acc683aaa79fee36.css">
+        
+                
+    <script type="text/javascript">
+        var cpm = {};
+        (function (h, u, b) {
+            var d = h.getElementsByTagName("script")[0], e = h.createElement("script");
+            e.async = true;
+            e.src = 'https://cookiehub.net/cc/82047f3e.js';
+            e.onload = function () {
+                u.cookiehub.load(b);
+            }
+            d.parentNode.insertBefore(e, d);
+        })(document, window, cpm);
+    </script>
+    </head>
+    <body class="">
+        <div class="sticky-footer-wrapper">
+            <div class="content-wrapper">
+                                    
+
+                            
+    
+<section id="navigation-1" class="page-header">
+    <div id="portalSelection-1">
+        <div class="page-header-language-chooser">
+            <div class="inline-content">
+                <ul class="page-header-language-chooser-wrapper">
+                    <li class="page-header-languages-item">
+                        <a href="http://inside.neutrik.com">Login</a>
+                    </li>
+
+                                            <li class="page-header-languages-item select">
+                            <select class="js-portal">
+                                                                                                                                            
+                                                                                                                
+                                    <option value="https://www.neutrik.com/en/product/nmj6hcd2" selected>English</option>
+                                                                                                                                            
+                                    
+                                    <option value="https://www.neutrik.com/de/produkt/nmj6hcd2" >Deutsch</option>
+                                                            </select>
+                        </li>
+                    
+                    
+                    <li class="page-header-languages-item select">
+                        <select data-type="no-max-height" class="js-portal">
+                                                            <option value="https://www.neutrik.com/de"
+                                         selected>
+                                    Liechtenstein
+                                </option>
+                                                            <option value="https://www.neutrik.de/de-de"
+                                        >
+                                    Germany
+                                </option>
+                                                            <option value="https://www.neutrik-france.com/fr"
+                                        >
+                                    France
+                                </option>
+                                                            <option value="https://www.neutrik.co.uk/?country=GB"
+                                        >
+                                    United Kingdom
+                                </option>
+                                                            <option value="https://www.neutrik.us/en-us"
+                                        >
+                                    United States
+                                </option>
+                                                            <option value="https://www.neutrik.co.jp/jp"
+                                        >
+                                    Japan
+                                </option>
+                                                            <option value="https://www.neutrik.com.cn/zh"
+                                        >
+                                    China
+                                </option>
+                                                    </select>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="search-1" class="page-header-nav-wrapper js-page-header-nav-wrapper">
+            
+            
+            <div class="page-header-logo">
+                <a href="https://www.neutrik.com/en">
+                    <h1>
+                        <img src="/neutrik/images/logos/neutrik.svg" alt="Neutrik">
+                    </h1>
+                </a>
+            </div>
+
+                                        <div class="page-header-language-chooser is-mobile">
+                    <div class="inline-content">
+                        <ul class="page-header-language-chooser-wrapper">
+                                                            <li class="page-header-languages-item select">
+                                    <select class="js-portal-mobile">
+                                                                                                                                
+                                                                                                                                        
+                                            <option value="https://www.neutrik.com/en/product/nmj6hcd2" selected>EN</option>
+                                                                                                                                
+                                            
+                                            <option value="https://www.neutrik.com/de/produkt/nmj6hcd2" >DE</option>
+                                                                            </select>
+                                </li>
+                            
+                            <li class="page-header-languages-item select">
+                                <select class="js-portal-mobile">
+                                                                            <option value="https://www.neutrik.com/de"
+                                                 selected>
+                                            Liechtenstein
+                                        </option>
+                                                                            <option value="https://www.neutrik.de/de-de"
+                                                >
+                                            Germany
+                                        </option>
+                                                                            <option value="https://www.neutrik-france.com/fr"
+                                                >
+                                            France
+                                        </option>
+                                                                            <option value="https://www.neutrik.co.uk/?country=GB"
+                                                >
+                                            United Kingdom
+                                        </option>
+                                                                            <option value="https://www.neutrik.us/en-us"
+                                                >
+                                            United States
+                                        </option>
+                                                                            <option value="https://www.neutrik.co.jp/jp"
+                                                >
+                                            Japan
+                                        </option>
+                                                                            <option value="https://www.neutrik.com.cn/zh"
+                                                >
+                                            China
+                                        </option>
+                                                                    </select>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            
+            <div class="page-header-nav js-page-header-nav">
+                <ul class="main-nav">
+                    <li class="main-nav-item main-nav-mobile-search is-open">
+                        <div class="search-field-container">
+                            <form action="https://www.neutrik.com/en/search" class="js-search-form">
+                                <input class="search-input js-search-input"
+                                       type="search"
+                                       name="q"
+                                       placeholder=Search>
+                            </form>
+                        </div>
+
+                        <div class="search-item-container js-search-btn">
+                            <i class="icon-search"></i>
+                        </div>
+                    </li>
+
+                                                                                            
+                                                                            
+                        
+                        <li class="main-nav-item js-main-nav-item is-product-page">
+                            <a href="https://www.neutrik.com/en/products" class="main-nav-link">Products</a>
+
+                                                                                                
+                                    <i class="icon-down js-dropdown"></i>
+
+                                    <ul class="main-nav-sub js-main-nav-sub product">
+                                        <div class="main-nav-sub-wrapper">
+                                            <div class="inline-content">
+                                                                                                    <li class="main-nav-sub-product products-7">
+                                                        <i class="icon-headphones"></i>
+                                                        <a href="https://www.neutrik.com/en/products/audio">Audio</a>
+
+                                                                                                                    <ul>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/xlr">XLR</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/plugs-and-jacks">Plugs &amp; Jacks</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/phono-rca">Phono (RCA)</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/speakon">speakON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/opticalcon">opticalCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/fiberfox">FIBERFOX</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/ethercon">etherCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/powercon">powerCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/patch-panels">Patch Panels</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/xirium-pro">XIRIUM PRO</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/dante-interface">DANTE Interface</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/milan-oem-solutions">MILAN OEM Solutions</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/audio/accessories">Accessories</a>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                                                                            </li>
+                                                                                                    <li class="main-nav-sub-product products-7">
+                                                        <i class="icon-camera"></i>
+                                                        <a href="https://www.neutrik.com/en/products/video">Video</a>
+
+                                                                                                                    <ul>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/video/bnc">BNC</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/video/opticalcon">opticalCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/video/fiberfox">FIBERFOX</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/video/opticamswitch">opticamSWITCH</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/video/phono-rca">Phono (RCA)</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/video/powercon">powerCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/video/accessories">Accessories</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/video/poe-injector">PoE Injector</a>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                                                                            </li>
+                                                                                                    <li class="main-nav-sub-product products-7">
+                                                        <i class="icon-lightbulb"></i>
+                                                        <a href="https://www.neutrik.com/en/products/lightning">Lighting</a>
+
+                                                                                                                    <ul>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/lightning/xlr">XLR</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/lightning/ethercon">etherCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/lightning/opticalcon">opticalCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/lightning/fiberfox">FIBERFOX</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/lightning/powercon">powerCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/lightning/accessories">Accessories</a>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                                                                            </li>
+                                                                                                    <li class="main-nav-sub-product products-7">
+                                                        <i class="icon-flash"></i>
+                                                        <a href="https://www.neutrik.com/en/products/power">Power</a>
+
+                                                                                                                    <ul>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/power/powercon-true1-top">powerCON TRUE1 TOP</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/power/powercon-true1">*Discontinued* powerCON TRUE1</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/power/powercon-20-a">powerCON blue / grey</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/power/powercon-32-a">powerCON 32 A</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/power/powercon-accessories">powerCON Accessories</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/power/poe-injector">PoE Injector</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/power/professional-power-cables">Professional POWER CABLES</a>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                                                                            </li>
+                                                                                                    <li class="main-nav-sub-product products-7">
+                                                        <i class="icon-usb"></i>
+                                                        <a href="https://www.neutrik.com/en/products/data">Data</a>
+
+                                                                                                                    <ul>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/data/opticalcon">opticalCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/data/ethercon">etherCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/data/multimedia">Multimedia</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/data/8-2-pole-xlr">8 + 2 pole XLR</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/data/poe-injector">PoE Injector</a>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                                                                            </li>
+                                                                                                    <li class="main-nav-sub-product products-7">
+                                                        <i class="icon-usb"></i>
+                                                        <a href="https://www.neutrik.com/en/products/industrial">Industrial</a>
+
+                                                                                                                    <ul>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/industrial/circular-connectors">Circular connectors</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/industrial/powercon">powerCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/industrial/ethercon">etherCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/industrial/xlr">XLR</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/industrial/plugs-and-jacks">Plugs &amp; Jacks</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/industrial/opticalcon">opticalCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/industrial/fiberfox">FIBERFOX</a>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                                                                            </li>
+                                                                                                    <li class="main-nav-sub-product products-7">
+                                                        <i class="icon-stethoskop"></i>
+                                                        <a href="https://www.neutrik.com/en/products/medical">Healthcare</a>
+
+                                                                                                                    <ul>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/medical/opticalcon-hybrid-med">opticalCON HYBRID MED</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/medical/opticalcon-quad-med">opticalCON QUAD MED</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/medical/powercon">powerCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/medical/ethercon">etherCON</a>
+                                                                    </li>
+                                                                                                                                    <li class="main-nav-child-product">
+                                                                        <a href="https://www.neutrik.com/en/products/medical/neutricon">neutriCON</a>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                                                                            </li>
+                                                                                            </div>
+                                        </div>
+                                    </ul>
+                                                                                    </li>
+                                                                                            
+                        
+                        
+                        <li class="main-nav-item js-main-nav-item">
+                            <a href="https://www.neutrik.com/en/about-us" class="main-nav-link">About us</a>
+
+                                                                                                <i class="icon-down js-dropdown"></i>
+
+                                    <ul class="main-nav-sub js-main-nav-sub">
+                                                                                                                                    <li class="main-nav-sub-item">
+                                                    <a href="https://www.neutrik.com/en/about-us/news">News</a>
+                                                </li>
+                                                                                                                                                                                <li class="main-nav-sub-item">
+                                                    <a href="https://www.neutrik.com/en/about-us/events">Events</a>
+                                                </li>
+                                                                                                                                                                                <li class="main-nav-sub-item">
+                                                    <a href="https://www.neutrikgroup.com/career/">Your Career at Neutrik Group</a>
+                                                </li>
+                                                                                                                                                                                <li class="main-nav-sub-item">
+                                                    <a href="https://www.neutrikgroup.com">Neutrik Group</a>
+                                                </li>
+                                                                                                                        </ul>
+                                                                                    </li>
+                                                                                            
+                        
+                        
+                        <li class="main-nav-item js-main-nav-item">
+                            <a href="https://www.neutrik.com/en/contact" class="main-nav-link">Contact</a>
+
+                                                                                                <i class="icon-down js-dropdown"></i>
+
+                                    <ul class="main-nav-sub js-main-nav-sub">
+                                                                                                                                    <li class="main-nav-sub-item">
+                                                    <a href="https://www.neutrik.com/en/contact/world-wide-agents">World wide agents</a>
+                                                </li>
+                                                                                                                                                                                <li class="main-nav-sub-item">
+                                                    <a href="https://www.neutrik.com/en/contact/contact-form">Support and contact request</a>
+                                                </li>
+                                                                                                                        </ul>
+                                                                                    </li>
+                                                                                            
+                        
+                        
+                        <li class="main-nav-item js-main-nav-item">
+                            <a href="https://www.neutrik.com/en/support" class="main-nav-link">Support</a>
+
+                                                                                                <i class="icon-down js-dropdown"></i>
+
+                                    <ul class="main-nav-sub js-main-nav-sub">
+                                                                                                                                    <li class="main-nav-sub-item">
+                                                    <a href="https://www.neutrik.com/en/support/faq">FAQ</a>
+                                                </li>
+                                                                                                                                                                                <li class="main-nav-sub-item">
+                                                    <a href="https://www.neutrik.com/en/support/downloads">Downloads</a>
+                                                </li>
+                                                                                                                        </ul>
+                                                                                    </li>
+                    
+                    <li class="main-nav-item login">
+                        <a href="http://inside.neutrik.com/" class="main-nav-link">
+                            Login
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="main-nav-search js-main-nav-search">
+                <div class="search-field-container">
+                    <form action="https://www.neutrik.com/en/search" method="get" class="search-form">
+                        <input class="search-input js-search-input" type="search" name="q"
+                               placeholder="Search">
+
+                        <button type="submit" class="search-btn">
+                            <i class="icon-search"></i>
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            <div class="main-nav-mobile">
+                <div class="nav-icon js-main-nav-mobile">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+                
+                    
+    <article id="product-1" class="redesign--product">
+        <div class="redesign--product__columns">
+            <div class="redesign--product__sticky-image-wrapper">
+                                    <div class="redesign--product__image-container js-redesign--product__image-container">
+                        <div class="redesign--product__image js-redesign--product__image">
+                                                            <img src="/uploads/media/400x/05/755-NMJ6HCD2.png?v=4-0"
+                                     alt="NMJ6HCD2"/>
+                                                    </div>
+
+                                            </div>
+                            </div>
+            <div class="redesign--product__content-container">
+                <div class="redesign--product__content-spacer redesign--product__breadcrumb-container">
+                    <div class="redesign--breadcrumb">
+                            
+    
+                
+            
+                            
+                                        
+                                                        
+                    
+                            
+                    
+            <a href="https://www.neutrik.com/en">
+                neutrik
+            </a><span> / </span>
+        
+                            <a href="https://www.neutrik.com/en/products">
+                Products
+            </a><span> / </span>
+        
+        
+                    
+                                                <span>NMJ6HCD2</span>
+                                        </div>
+                </div>
+
+                <div class="redesign--product__content-spacer">
+                    
+                    <h1 class="redesign--product__title">
+                        NMJ6HCD2
+                    </h1>
+
+                    <div class="redesign--product__buttons">
+                        
+                        <a href="/en/product/nmj6hcd2.pdf"
+                           class="button button--secondary button--icon-right">
+                            <span>Download Data Sheet</span>
+                            <i class="ri-download-line"></i>
+                        </a>
+                    </div>
+                </div>
+
+                                
+                                    <div class="redesign--product__content-spacer">
+                        <div class="text-editor">
+                            <p>1/4" stereo jack, switched, with chrome ferrule and straight PCB pins, mounting nut included</p>
+                        </div>
+                    </div>
+                
+                
+                                    <div class="redesign--product__content-spacer"
+                         id="Features%20%26%20Benefits"
+                         data-product-anchor-link-title="Features &amp; Benefits">
+                        <div class="redesign--product__content-headline">
+                            Features &amp; Benefits
+                        </div>
+                        <div class="text-editor">
+                            <ul>
+<li>Wide body and extremely durable contacts</li>
+<li>Mates with all stereo A-gauge plugs acc. EIA RS-453 standard</li>
+</ul>
+                        </div>
+                    </div>
+                
+                                    <div class="redesign--product__content-spacer"
+                         id="Downloads"
+                         data-product-anchor-link-title="Downloads">
+                        <div class="redesign--product__content-headline">
+                            Downloads
+                        </div>
+                        <div class="redesign--product__content-download">
+                                                            <a class="redesign--product__content-download-item" href="/media/8582/download/st-nmj6hcd2.PDF?v=3" onmousedown="clickTracker('/media/8582/download/st-nmj6hcd2.PDF?v=3');">
+                                    <div class="redesign--product__content-download-informations">
+                                        <div class="redesign--product__content-download-informations-title">
+                                            st-nmj6hcd2
+                                        </div>
+                                        <span class="redesign--product__content-informations-data">
+                                            pdf - 34.07 KB
+                                        </span>
+                                    </div>
+
+                                    <i class="ri-download-2-line ri-xl"></i>
+                                </a>
+                                                            <a class="redesign--product__content-download-item" href="/media/12310/download/st-nmj6hcd2.dxf?v=3" onmousedown="clickTracker('/media/12310/download/st-nmj6hcd2.dxf?v=3');">
+                                    <div class="redesign--product__content-download-informations">
+                                        <div class="redesign--product__content-download-informations-title">
+                                            st-nmj6hcd2
+                                        </div>
+                                        <span class="redesign--product__content-informations-data">
+                                            plain - 178.15 KB
+                                        </span>
+                                    </div>
+
+                                    <i class="ri-download-2-line ri-xl"></i>
+                                </a>
+                                                            <a class="redesign--product__content-download-item" href="/media/15276/download/3-D%20NMJ6HCD2.stp?v=1" onmousedown="clickTracker('/media/15276/download/3-D%20NMJ6HCD2.stp?v=1');">
+                                    <div class="redesign--product__content-download-informations">
+                                        <div class="redesign--product__content-download-informations-title">
+                                            3-D NMJ6HCD2
+                                        </div>
+                                        <span class="redesign--product__content-informations-data">
+                                            plain - 108.99 KB
+                                        </span>
+                                    </div>
+
+                                    <i class="ri-download-2-line ri-xl"></i>
+                                </a>
+                                                            <a class="redesign--product__content-download-item" href="/media/10096/download/02%20Neutrik%20PG%20EN%20-%20Section%20Plugs%20%26%20Jacks%20-%20202110-V24.pdf?v=9" onmousedown="clickTracker('/media/10096/download/02%20Neutrik%20PG%20EN%20-%20Section%20Plugs%20%26%20Jacks%20-%20202110-V24.pdf?v=9');">
+                                    <div class="redesign--product__content-download-informations">
+                                        <div class="redesign--product__content-download-informations-title">
+                                            02 Neutrik PG EN - Section Plugs &amp; Jacks - 202110-V24
+                                        </div>
+                                        <span class="redesign--product__content-informations-data">
+                                            pdf - 6.12 MB
+                                        </span>
+                                    </div>
+
+                                    <i class="ri-download-2-line ri-xl"></i>
+                                </a>
+                                                            <a class="redesign--product__content-download-item" href="/media/8557/download/jacks---circuits.pdf?v=1" onmousedown="clickTracker('/media/8557/download/jacks---circuits.pdf?v=1');">
+                                    <div class="redesign--product__content-download-informations">
+                                        <div class="redesign--product__content-download-informations-title">
+                                            jacks---circuits
+                                        </div>
+                                        <span class="redesign--product__content-informations-data">
+                                            pdf - 1.56 MB
+                                        </span>
+                                    </div>
+
+                                    <i class="ri-download-2-line ri-xl"></i>
+                                </a>
+                                                    </div>
+                    </div>
+                
+                
+                
+                                    <div class="redesign--product__content-spacer"
+                         id="Technical%20Information"
+                         data-product-anchor-link-title="Technical Information">
+                        
+    <section class="redesign--product__table">
+                    <h2 class="redesign--product__content-headline">Technical Information</h2>
+        
+        <div id="table-1">
+                            <div class="redesign--product__content-technical-information-table table table--bold-first-column js-table-container">
+                    <table class="js-table">
+                        <thead>
+                            <tr>
+                                <th colspan="2">Product</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                                                    <tr>
+                                <td>Title</td>
+                                <td>NMJ6HCD2</td>
+                            </tr>
+                                                    <tr>
+                                <td>Connection Type</td>
+                                <td>Jack </td>
+                            </tr>
+                                                    <tr>
+                                <td>Gender</td>
+                                <td>female </td>
+                            </tr>
+                                                </tbody>
+                    </table>
+                </div>
+            
+                            <div id="table-2" class="redesign--product__content-technical-information-table table table--bold-first-column js-table-container">
+                    <table class="js-table">
+                        <thead>
+                            <tr>
+                                <th colspan="2">Electrical</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                                                            <tr>
+                                    <td>Contact resistance</td>
+                                    <td>< 15 mΩ </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Contact resistance</td>
+                                    <td>< 30 mΩ </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Dielectric strength</td>
+                                    <td>1 kVdc </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Insulation resistance</td>
+                                    <td>≥ 1 GΩ @ 500 V dc</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Rated current per contact</td>
+                                    <td>3 A </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Rated current per contact</td>
+                                    <td>0,50 A @ 50 V (Switch contact)</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Switching contacts</td>
+                                    <td>3 </td>
+                                </tr>
+                                                    </tbody>
+                    </table>
+                </div>
+            
+                            <div id="table-3" class="redesign--product__content-technical-information-table table table--bold-first-column js-table-container">
+                    <table class="js-table">
+                        <thead>
+                            <tr>
+                                <th colspan="2">Mechanical</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                                                            <tr>
+                                    <td>Insertion force</td>
+                                    <td>< 30 N </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Withdrawal force</td>
+                                    <td>> 10 N </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Lifetime</td>
+                                    <td>> 10000 mating cycles </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Panel thickness</td>
+                                    <td>< 4.7 mm </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Wiresize</td>
+                                    <td> </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Wiring</td>
+                                    <td>Horizontal PCB mount </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Locking device</td>
+                                    <td>Retention spring </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Mounting direction</td>
+                                    <td>Rear mounting </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Chassis shape</td>
+                                    <td>11.4 mm </td>
+                                </tr>
+                                                    </tbody>
+                    </table>
+                </div>
+            
+                            <div id="table-4" class="redesign--product__content-technical-information-table table table--bold-first-column js-table-container">
+                    <table class="js-table">
+                        <thead>
+                            <tr>
+                                <th colspan="2">Material</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                                                            <tr>
+                                    <td>Cap / Nut / Washer</td>
+                                    <td>PA 6.6 15% GR </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Contact plating</td>
+                                    <td>2 µm Ag </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Contacts</td>
+                                    <td>Bronze (CuSn6) </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Shell</td>
+                                    <td>Polyamide (PA 6.6 30 % GR) UL 94 V0</td>
+                                </tr>
+                                                    </tbody>
+                    </table>
+                </div>
+            
+                            <div id="table-5" class="redesign--product__content-technical-information-table table table--bold-first-column js-table-container">
+                    <table class="js-table">
+                        <thead>
+                            <tr>
+                                <th colspan="2">Environmental</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                                                            <tr>
+                                    <td>Standard compliance</td>
+                                    <td>EIA RS 453, IEC 60603-11</td>
+                                </tr>
+                                                            <tr>
+                                    <td>Solderability</td>
+                                    <td>Complies with IEC 60068-2-20 </td>
+                                </tr>
+                                                            <tr>
+                                    <td>Temperature range</td>
+                                    <td>-25 °C to +70 °C </td>
+                                </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            
+                    </div>
+    </section>
+                    </div>
+                
+                                    <div class="redesign--product__content-spacer"
+                         id="Accessories"
+                         data-product-anchor-link-title="Accessories">
+                        <div class="redesign--product__content-headline">Accessories</div>
+
+                        <div class="redesign--product__content-accessories js-redesign--product__content-accessories">
+                                                                                                                            
+                                
+                                <a href="/en/product/cas-dummy"
+                                   class="redesign--product__content-accessory-link">
+                                    
+                                                                            <img src="/uploads/media/405x405/05/615-dummyplug-case.jpg?v=1-0"
+                                             alt="dummyplug-case.jpg"
+                                             class="redesign--product__content-accessory-image">
+                                    
+                                                                                                                                                                                                                                                <div class="redesign--product__content-accessory-title">
+                                            CAS-DUMMY
+                                        </div>
+                                    
+                                                                            <div class="redesign--product__content-accessory-description">
+                                            <p>The dummyPLUG case includes a mixed assortment of dummyPLUGs</p>
+                                        </div>
+                                                                    </a>
+                                                                                                                            
+                                
+                                <a href="/en/product/ndj"
+                                   class="redesign--product__content-accessory-link">
+                                                                            <div class="redesign--product__content-accessory-tag">
+                                            audio
+                                        </div>
+                                    
+                                                                            <img src="/uploads/media/405x405/02/772-ndj.jpg?v=1-0"
+                                             alt="ndj.jpg"
+                                             class="redesign--product__content-accessory-image">
+                                    
+                                                                                                                                                                                                                                                <div class="redesign--product__content-accessory-title">
+                                            NDJ
+                                        </div>
+                                    
+                                                                            <div class="redesign--product__content-accessory-description">
+                                            <p>The dummyPLUG NDJ for Neutrik 1/4'' Jacks enables you to simplify cabling.</p>
+                                        </div>
+                                                                    </a>
+                                                    </div>
+
+                                            </div>
+                
+                                
+                
+                <div id="productAnchorLinks-1" class="redesign--product-anchor-links redesign--product-anchor-links--hidden">
+    <div class="redesign--product-anchor-links__shadow redesign--product-anchor-links__shadow--left js-redesign--product-anchor-links__shadow--left"></div>
+    <div class="redesign--product-anchor-links__scroll-container js-redesign--product-anchor-links__scroll-container">
+        <div class="redesign--product-anchor-links__container js-redesign--product-anchor-links__container">
+                    </div>
+    </div>
+    <div class="redesign--product-anchor-links__shadow redesign--product-anchor-links__shadow--right js-redesign--product-anchor-links__shadow--right"></div>
+</div>
+            </div>
+        </div>
+
+            </article>
+            </div>
+
+                            
+
+<section class="footer">
+    <div class="footer-wrapper">
+        <div class="footer-products max-width-large inline-content">
+            <ul>
+                                                            
+                                                    <li class="footer-item products-7">
+                                <a href="https://www.neutrik.com/en/products/audio" class="footer-nav-link is-bold">Audio</a>
+
+                                                                    <ul class="footer-sub-nav">
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/xlr">XLR</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/plugs-and-jacks">Plugs &amp; Jacks</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/phono-rca">Phono (RCA)</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/speakon">speakON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/opticalcon">opticalCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/fiberfox">FIBERFOX</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/ethercon">etherCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/powercon">powerCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/patch-panels">Patch Panels</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/xirium-pro">XIRIUM PRO</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/dante-interface">DANTE Interface</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/milan-oem-solutions">MILAN OEM Solutions</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/audio/accessories">Accessories</a>
+                                            </li>
+                                                                            </ul>
+                                                            </li>
+                                                    <li class="footer-item products-7">
+                                <a href="https://www.neutrik.com/en/products/video" class="footer-nav-link is-bold">Video</a>
+
+                                                                    <ul class="footer-sub-nav">
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/video/bnc">BNC</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/video/opticalcon">opticalCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/video/fiberfox">FIBERFOX</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/video/opticamswitch">opticamSWITCH</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/video/phono-rca">Phono (RCA)</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/video/powercon">powerCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/video/accessories">Accessories</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/video/poe-injector">PoE Injector</a>
+                                            </li>
+                                                                            </ul>
+                                                            </li>
+                                                    <li class="footer-item products-7">
+                                <a href="https://www.neutrik.com/en/products/lightning" class="footer-nav-link is-bold">Lighting</a>
+
+                                                                    <ul class="footer-sub-nav">
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/lightning/xlr">XLR</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/lightning/ethercon">etherCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/lightning/opticalcon">opticalCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/lightning/fiberfox">FIBERFOX</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/lightning/powercon">powerCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/lightning/accessories">Accessories</a>
+                                            </li>
+                                                                            </ul>
+                                                            </li>
+                                                    <li class="footer-item products-7">
+                                <a href="https://www.neutrik.com/en/products/power" class="footer-nav-link is-bold">Power</a>
+
+                                                                    <ul class="footer-sub-nav">
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/power/powercon-true1-top">powerCON TRUE1 TOP</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/power/powercon-true1">*Discontinued* powerCON TRUE1</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/power/powercon-20-a">powerCON blue / grey</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/power/powercon-32-a">powerCON 32 A</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/power/powercon-accessories">powerCON Accessories</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/power/poe-injector">PoE Injector</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/power/professional-power-cables">Professional POWER CABLES</a>
+                                            </li>
+                                                                            </ul>
+                                                            </li>
+                                                    <li class="footer-item products-7">
+                                <a href="https://www.neutrik.com/en/products/data" class="footer-nav-link is-bold">Data</a>
+
+                                                                    <ul class="footer-sub-nav">
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/data/opticalcon">opticalCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/data/ethercon">etherCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/data/multimedia">Multimedia</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/data/8-2-pole-xlr">8 + 2 pole XLR</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/data/poe-injector">PoE Injector</a>
+                                            </li>
+                                                                            </ul>
+                                                            </li>
+                                                    <li class="footer-item products-7">
+                                <a href="https://www.neutrik.com/en/products/industrial" class="footer-nav-link is-bold">Industrial</a>
+
+                                                                    <ul class="footer-sub-nav">
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/industrial/circular-connectors">Circular connectors</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/industrial/powercon">powerCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/industrial/ethercon">etherCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/industrial/xlr">XLR</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/industrial/plugs-and-jacks">Plugs &amp; Jacks</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/industrial/opticalcon">opticalCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/industrial/fiberfox">FIBERFOX</a>
+                                            </li>
+                                                                            </ul>
+                                                            </li>
+                                                    <li class="footer-item products-7">
+                                <a href="https://www.neutrik.com/en/products/medical" class="footer-nav-link is-bold">Healthcare</a>
+
+                                                                    <ul class="footer-sub-nav">
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/medical/opticalcon-hybrid-med">opticalCON HYBRID MED</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/medical/opticalcon-quad-med">opticalCON QUAD MED</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/medical/powercon">powerCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/medical/ethercon">etherCON</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.neutrik.com/en/products/medical/neutricon">neutriCON</a>
+                                            </li>
+                                                                            </ul>
+                                                            </li>
+                                                                                                                                                                                    </ul>
+        </div>
+
+        
+        <div class="footer-copyright">
+            <div class="footer-copyright-container max-width-large">
+                <img src="/neutrik/images/logos/logo-neutrik-round.png"
+                     class="footer-logo"
+                     alt="Neutrik">
+                <p>© Neutrik® AG | All rights reserved</p>
+
+                <div class="footer-nav-wrapper">
+                    <div class="footer-nav">
+                        <ul>
+                                                            <li>
+                                    <a href="https://www.neutrik.com/en/legal-notice">Legal Notice</a>
+                                </li>
+
+                                                                    <li class="footer-sub-nav-space-split">|</li>
+                                                                                            <li>
+                                    <a href="https://www.neutrik.com/en/dataprotection">Data Protection</a>
+                                </li>
+
+                                                                    <li class="footer-sub-nav-space-split">|</li>
+                                                                                            <li>
+                                    <a href="https://www.teamviewer.com/link/?url=505374&amp;id=1403687716">Team Viewer</a>
+                                </li>
+
+                                                                                    </ul>
+                    </div>
+
+                    <div class="footer-social-media">
+                        <ul class="footer-social-media-list">
+                            <a href="https://www.facebook.com/Neutrik" class="footer-social-media-link">
+                                <li class="footer-social-media-list-item">
+                                    <i class="icon-facebook footer-icon"></i>
+                                </li>
+                            </a>
+                            <a href="https://twitter.com/NeutrikOfficial" class="footer-social-media-link">
+                                <li class="footer-social-media-list-item">
+                                    <i class="icon-twitter footer-icon"></i>
+                                </li>
+                            </a>
+                            <a href="https://www.youtube.com/user/ExperienceNeutrik" class="footer-social-media-link">
+                                <li class="footer-social-media-list-item">
+                                    <i class="icon-youtube footer-icon"></i>
+                                </li>
+                            </a>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+                    </div>
+
+                    <script src="/build/neutrik/js/main.3edabffa634d72f10af4.js"></script>
+            <script src="/neutrik/js/modernizr.js" defer></script>
+            <script>
+                window.gMapsApiKey = 'AIzaSyBppKdNvjL4uKNIIWIy689SVUhostopZv4';
+                window.pinPath = '/neutrik/images/pin@2x.png';
+                web.startComponents([{"name":"navigation","id":"navigation-1","options":{"template":"product"}},{"name":"portalSelection","id":"portalSelection-1","options":{}},{"name":"search","id":"search-1","options":{}},{"name":"product","id":"product-1","options":{}},{"name":"table","id":"table-1","options":{}},{"name":"table","id":"table-2","options":{}},{"name":"table","id":"table-3","options":{}},{"name":"table","id":"table-4","options":{}},{"name":"table","id":"table-5","options":{}},{"name":"productAnchorLinks","id":"productAnchorLinks-1","options":{}}]);
+            </script>
+            </body>
+</html>

@@ -1,0 +1,57 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Sim.Device,Sim.Pins
+1,"Unpolarized capacitor, small symbol",C_Small,C7,51p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1, ,~,,
+2,"Unpolarized capacitor, small symbol",C_Small,C3,20n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1, ,~,,
+3,"Unpolarized capacitor, small symbol",C_Small,C6,47n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1, ,~,,
+4,,C-device,C1,100nF,C_Rect_L7_W3.5_P5,1, ,,,
+5,"Unpolarized capacitor, small symbol",C_Small,C14,100n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1, ,~,,
+6,"Unpolarized capacitor, small symbol",C_Small,C5,150n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1, ,~,,
+7,"Unpolarized capacitor, small symbol",C_Small,C8 C9 C12,220n,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,3, ,~,,
+8,"Unpolarized capacitor, small symbol",C_Small,C4 C11 C15,1u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,3, ,~,,
+9,Polarized capacitor,C_Polarized,C10,10uF,CP_Radial_D8.0mm_P2.50mm,1, ,~,,
+10,Polarized capacitor,C_Polarized,C13,100uF,CP_Radial_D8.0mm_P2.50mm,1, ,~,,
+11,,CP-device,C2,100uF,CP_Radial_D8.0mm_P2.50mm,1, ,,,
+12,"50V 1A General Purpose Rectifier Diode, DO-41",1N4001,D7,1N4001,D_DO-41_SOD81_P10.16mm_Horizontal,1, ,http://www.vishay.com/docs/88503/1n4001.pdf,D,1=K 2=A
+13,"100V 0.3A Small Signal Fast Switching Diode, DO-35",1N914,D4 D5,1N914,D_SOD-123F,2, ,http://www.vishay.com/docs/85622/1n914.pdf,D,1=K 2=A
+14,"100V 0.1A Small Signal Schottky Diode, DO-35",BAT41,D2,BAT41,D_SOD-123F,1, ,http://www.vishay.com/docs/85659/bat41.pdf,,
+15,,LED-device,D1,LED,LED-5MM,1, ,~,,
+16,Light emitting diode,LED,D3 D6,LED,LED_D3.0mm,2, ,~,,
+17,Potentiometer,R_Potentiometer,DRIVE1,500KA,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,1, ,~,,
+18,"M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins",NMJ6HCD2,J2 J3,NMJ6HCD2,Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal,2, ,https://www.neutrik.com/en/product/nmj6hcd2,,
+19,,CONN_01X02-conn,J1 J4,V+ GND,PinHeader_1x02_P2.54mm_Vertical,2, ,,,
+20,,CONN_01X04-conn,JOVGI1 JOVGI2,OVGI,Pin_Header_Straight_1x04_Pitch2.54mm,2, ,,,
+21,Potentiometer,R_Potentiometer,LOW1 TONE1,20KB,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,2, ,~,,
+22,Housing,Housing,N1,Housing,1590B,1, ,~,,
+23,"0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23",2N7002,Q2 Q5,2N7002,SOT-23,2, ,https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF,,
+24,"NPN transistor, emitter/collector/base",Q_NPN_ECB,Q1 Q4,2SC1815,TO-92L_HandSolder,2, ,~,,
+25,Resistor,R,R20,47R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,,
+26,Resistor,R,R21,100R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,,
+27,Resistor,R,R13,220R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,,
+28,Resistor,R,R5 R11 R14 R17,1k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4, ,~,,
+29,,R-device,R2,1K,Resistor_Horizontal_RM7mm,1, ,,,
+30,Resistor,R,R8,4k7,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,,
+31,Resistor,R,R7 R9 R12 R15 R16 R19 R22,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,7, ,~,,
+32,Resistor,R,R10,51k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,,
+33,Resistor,R,R6 R18,510k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2, ,~,,
+34,,R-device,R1 R3,1M,Resistor_Horizontal_RM7mm,2, ,,,
+35,Resistor,R,R4,1M,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1, ,~,,
+36,,SW_3PDT-switches,SW1,SW_3PDT,3PDT-Footswitch,1, ,,,
+37,"Switch, single pole double throw, center OFF position",SW_SPDT_MSM,SW2,SW_SPDT,SW_Toggle_Blue_wSlots,1, ,~,,
+38,"Dual General Purpose, Operational Amplifier, DIP-8/SOIC-8/SSOP-8",RC4558,U1,RC4558,SO-8_3.9x4.9mm_P1.27mm,1, ,http://www.ti.com/lit/ds/symlink/rc4558.pdf,,
+39,Potentiometer,R_Potentiometer,VOL1,100KB,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,1, ,~,,
+
+
+
+
+
+Project info:
+Schematic:,GreenBean
+Variant:,default
+Revision:,
+Date:,2023-08-08_15-24-33
+KiCad Version:,7.0.5.1-1-g8f565ef7f0-dirty-deb11
+Statistics:
+Component Groups:,39
+Component Count:,62 (36 SMD/ 25 THT)
+Fitted Components:,62 (36 SMD/ 25 THT)
+Number of PCBs:,1
+Total Components:,62

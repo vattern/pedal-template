@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"DRIVE1","500KA","Potentiometer_ALPHA_RV16106N",160.5100,-60.0500,180.0000,bottom
+"LOW1","20KB","Potentiometer_ALPHA_RV16106N",160.5100,-95.6542,0.0000,bottom
+"TONE1","20KB","Potentiometer_ALPHA_RV16106N",125.0100,-59.9458,180.0000,bottom
+"VOL1","100KB","Potentiometer_ALPHA_RV16106N",125.0100,-95.9042,0.0000,bottom
