@@ -83,20 +83,20 @@ outputs:
       normalize_values: true
       normalize_locale: true
       exclude_filter: 'exclude_any'
-      html:      
+      html:
         highlight_empty: false
 
-  - name: 'bom_xlsx'
-    comment: "Bill of Materials in XLSX format"
-    type: bom
-    dir: BoM
-    options:
-      <<: *bom_options
-      format: XLSX
-      xlsx:
-        logo: 'images/inti.png'
-        digikey_link: 'digikey#'
-        highlight_empty: false
+  # - name: 'bom_xlsx'
+  #   comment: "Bill of Materials in XLSX format"
+  #   type: bom
+  #   dir: BoM
+  #   options:
+  #     <<: *bom_options
+  #     format: XLSX
+  #     xlsx:
+  #       logo: 'images/inti.png'
+  #       digikey_link: 'digikey#'
+  #       highlight_empty: false
 
   - name: 'bom_csv'
     comment: "Bill of Materials in CSV format"
