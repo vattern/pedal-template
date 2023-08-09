@@ -12,12 +12,6 @@ filters:
       - column: 'LCSC#'
         regex: '^C\d+'
 
-variants:
-  - name: rotated
-    comment: 'Just a place holder for the rotation filter'
-    type: kibom
-    variant: rotated
-    pre_transform: _rot_footprint
 
 outputs:
   - name: JLCPCB_gerbers
@@ -76,7 +70,6 @@ outputs:
     type: position
     dir: JLCPCB
     options:
-      variant: rotated
       output: '%f_cpl_jlc.%x'
       format: CSV
       units: millimeters

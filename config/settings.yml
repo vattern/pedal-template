@@ -26,6 +26,12 @@ filters:
        regex: '^(G|#|TP|F).*'
 
 outputs:
+
+  - name: 'export-blender'
+    comment: "Export 3d render"
+    type: blender_export
+    dir: .
+    
   - name: 'print_sch'
     comment: "Print schematic (PDF)"
     type: pdf_sch_print
