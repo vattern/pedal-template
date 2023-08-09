@@ -39,6 +39,8 @@ outputs:
     comment: "Print schematic (PDF)"
     type: svg_sch_print
     dir: .
+    options:
+      background_color: true
 
   - name: 'interactive_bom'
     comment: "Interactive Bill of Materials (HTML)"

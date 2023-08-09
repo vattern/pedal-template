@@ -1207,7 +1207,7 @@
       (net 14 "Net-(SW1A-B)") (pintype "passive") (tstamp 84c503cb-0ac9-4b4f-8b0a-dccae9d4ef2c))
     (pad "TN" thru_hole circle (at 0 16.23) (size 3 3) (drill 1.4) (layers "*.Cu" "*.Mask")
       (net 1 "GND") (pintype "passive") (tstamp 8e2c4e70-e59d-4e01-997e-77abf62473ec))
-    (model "${KIPRJMOD}3dmodels/NMJ6HCD2.step"
+    (model "${KIPRJMOD}/3dmodels/NMJ6HCD2.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1351,7 +1351,7 @@
       (net 23 "B") (pinfunction "2") (pintype "passive") (tstamp 970f9cef-269f-4a17-bd0c-44e990989b71))
     (pad "3" thru_hole oval (at 4.45 0 90) (size 3.2 5) (drill oval 1.25 2.5) (layers "*.Cu" "*.Mask")
       (net 42 "Net-(Q2-D)") (pinfunction "3") (pintype "passive") (tstamp c3c3d54b-0a57-4bb6-b2ee-80638181e018))
-    (model "${KIPRJMOD}3dmodels/toggle-switch-01-v1.step"
+    (model "${KIPRJMOD}/3dmodels/toggle-switch-01-v1.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -22553,7 +22553,7 @@
       (net 26 "Net-(C9-Pad2)") (pinfunction "2") (pintype "passive") (tstamp 4bc8a347-a18c-4fcf-9748-f11e3e19b822))
     (pad "3" thru_hole circle (at 5 -16.5 180) (size 1.524 1.524) (drill 1.1) (layers "*.Cu" "*.Mask")
       (net 40 "Net-(U1B--)") (pinfunction "3") (pintype "passive") (tstamp 0e6848bb-dfae-4eeb-a531-601ff70937aa))
-    (model "${KIPRJMOD}3dmodels/stp/RV16AF-41-15R1.stp"
+    (model "${KIPRJMOD}/3dmodels/stp/RV16AF-41-15R1.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
