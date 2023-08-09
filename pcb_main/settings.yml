@@ -135,8 +135,6 @@ outputs:
         suffix: F_Cu
       - layer: B.Cu
         suffix: B_Cu
-      - layer: GND
-        suffix: GND_Cu
       - layer: F.Paste
         suffix: F_Paste
       - layer: B.Paste
@@ -168,8 +166,6 @@ outputs:
       use_aux_axis_as_origin: false
       minimal_header: false
       mirror_y_axis: false
-      report:
-        filename: 'spora-drl.rpt'
       map:
         type: 'pdf'
 
