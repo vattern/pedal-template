@@ -27,13 +27,29 @@ filters:
 
 outputs:
 
+
+
   - name: 'export-blender'
     comment: "Export 3d render"
     type: blender_export
     dir: .
     options:
+      point_of_view:
+        rotate_x: 30
+        rotate_z: 30
       outputs:
         type: render
+
+  - name: export_pcb
+    comment: 'Copy 3D models'
+    type: copy_files
+    dir: 'expoted_pcb'
+    options:
+      files:
+        - source_type: 3d_models
+          dest: 3d_models+
+          save_pcb: true
+
 
   - name: 'print_sch'
     comment: "Print schematic (PDF)"
