@@ -61,7 +61,6 @@ jobs:
   #   - name: Quick Start
   #     run: |
   #       kibot --quick-start
-  #
   #   - name: Retrieve results
   #     uses: actions/upload-artifact@v2
   #     with:
