@@ -37,7 +37,7 @@ outputs:
 
   - name: 'print_sch'
     comment: "Print schematic (PDF)"
-    type: pdf_sch_print
+    type: svg_sch_print
     dir: .
 
   - name: 'interactive_bom'

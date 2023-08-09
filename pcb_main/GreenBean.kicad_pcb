@@ -160,7 +160,7 @@
       (net 4 "O") (pinfunction "C") (pintype "passive") (tstamp 303dba6b-35c9-47eb-bfc0-e3bbfab04eb3))
     (pad "9" thru_hole oval (at 5.3 -4.7 180) (size 2.6 1.5) (drill oval 2.25 1) (layers "*.Cu" "*.Mask" "F.SilkS")
       (net 6 "Net-(SW1C-C)") (pinfunction "C") (pintype "passive") (tstamp 272c167c-b4d2-43ba-9ef0-c72e40e1412f))
-    (model ":PEDAL_3D_MODELS:/3PDT(1).stp"
+    (model "${KIPRJMOD}/3dmodels/3PDT(1).stp"
       (offset (xyz -9 -6.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -21877,7 +21877,7 @@
       (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp e5fb2be9-d891-4592-89ad-63f2a7674c66))
     (fp_line (start 60.090126 -106.233527) (end 60.089943 -106.283527)
       (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp 2afd1515-82b3-4316-9236-e4739ba67c1a))
-    (model ":PEDAL_3D_MODELS:1590B parts - 1590B BOX.step"
+    (model "${KIPRJMOD}/3dmodels1590B parts - 1590B BOX.step"
       (opacity 0.5100)      (offset (xyz 29.5 56 -8))
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 -90))
