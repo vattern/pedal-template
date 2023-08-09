@@ -12,14 +12,10 @@ global:
   # We want the revision added to the names for this project
   output: '%f-%i_%r.%x'
   dir: Fabrication
-  
 
-# import:
-#   - ../configs/Elecrow.kibot.yaml
-#   - ../configs/FusionPCB.kibot.yaml
-#   - ../configs/JLCPCB.kibot.yaml
-#   - ../configs/P-Ban.kibot.yaml
-#   - ../configs/PCBWay.kibot.yaml
+
+import:
+  - JLCPCB.kibot.yaml
 
 filters:
  - name: 'exclude_any'
@@ -66,22 +62,20 @@ outputs:
       columns:
         - Row
         - field: References
-          name: Referencias
+          name: Reference
         - field: Part
-          name: Parte
+          name: Part
         - field: Value
-          name: Valor
+          name: Value
         - field: manf#
           name: P/N
         - field: manf
-          name: Fabricante
-        - field: digikey#
-          name: 'Cod. Digi-Key'
+          name: Manufacturer
         - Footprint
         - field: Desc
-          name: Descripción
+          name: Description
         - 'Quantity Per PCB'
-      group_fields:  ['digikey#', 'Part']
+      group_fields:  [ 'Part']
       normalize_values: true
       normalize_locale: true
       exclude_filter: 'exclude_any'
