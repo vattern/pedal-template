@@ -43,7 +43,7 @@ jobs:
       with:
         name: Automatic_outputs
         path: |
-          Generated
+          pcb_main/Fabrication
         if-no-files-found: warn
 
 
@@ -80,12 +80,12 @@ jobs:
       uses: actions/download-artifact@v2
       with:
         name: Automatic_outputs
-        path: Generated
+        path: pcb_main/Fabrication
 
     - name: Deploy navigate results
       uses: JamesIves/github-pages-deploy-action@v4.3.3
       with:
         branch: main
-        folder: Generated
+        folder: pcb_main/Fabrication
         repository-name: vattern/pedal-template
         token: ${{ secrets.TOKEN }}
