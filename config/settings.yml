@@ -31,7 +31,9 @@ outputs:
     comment: "Export 3d render"
     type: blender_export
     dir: .
-    
+    outputs:
+      type: stl
+
   - name: 'print_sch'
     comment: "Print schematic (PDF)"
     type: pdf_sch_print
