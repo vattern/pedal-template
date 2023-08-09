@@ -4,14 +4,6 @@
 kibot:
   version: 1
 
-filters:
-  - name: only_jlc_parts
-    comment: 'Only parts with JLC (LCSC) code'
-    type: generic
-    include_only:
-      - column: 'LCSC#'
-        regex: '^C\d+'
-
 
 outputs:
   - name: JLCPCB_gerbers
@@ -95,7 +87,6 @@ outputs:
     dir: JLCPCB
     options:
       output: '%f_%i_jlc.%x'
-      exclude_filter: 'only_jlc_parts'
       ref_separator: ','
       columns:
         - field: Value
