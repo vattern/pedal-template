@@ -33,7 +33,7 @@ outputs:
     dir: .
     options:
       outputs:
-        type: stl
+        type: render
 
   - name: 'print_sch'
     comment: "Print schematic (PDF)"
