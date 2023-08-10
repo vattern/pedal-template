@@ -54,6 +54,7 @@ outputs:
 
   - name: 'make_stencil'
     type: stencil_3d
+    
 
   - name: 'print_sch'
     comment: "Print schematic (PDF)"
