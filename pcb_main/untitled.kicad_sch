@@ -6,6 +6,7 @@
 
   (title_block
     (title "Template Project")
+    (rev "1.0.0")
     (company "TKW")
   )
 
@@ -1912,4 +1913,3 @@
     )
   )
 )
-
